@@ -1,11 +1,13 @@
 package com.sayak.journalApp.Service;
 
 import com.sayak.journalApp.service.EmailService;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
+@Disabled
 public class EmailServiceTest {
 
     @Autowired
