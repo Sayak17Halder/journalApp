@@ -2,7 +2,6 @@ package com.sayak.journalApp.Service;
 
 import com.sayak.journalApp.service.UsersService;
 import org.junit.jupiter.api.Disabled;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
