@@ -1,4 +1,4 @@
-package com.sayak.journalApp.repository;
+package com.sayak.journalApp.service;
 
 import com.sayak.journalApp.entity.Users;
 import org.springframework.beans.factory.annotation.Autowired;
